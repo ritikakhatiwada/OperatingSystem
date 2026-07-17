@@ -1,0 +1,15 @@
+# Ignore all compiled binaries
+task1_threading/thread_basic
+task1_threading/mutex_demo
+task1_threading/semaphore_demo
+task1_threading/round_robin
+task1_threading/task1complete
+task1_threading/task1_complete
+task2_memory/paging
+task2_memory/fifo_lru
+task2_memory/task2complete
+task3_filesystem/fileops
+task3_filesystem/auth_permissions
+task3_filesystem/task3_complete
+task4_network/server
+task4_network/client
